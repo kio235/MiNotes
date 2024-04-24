@@ -1,0 +1,4 @@
+#Sat Mar 09 12:44:11 HKT 2024
+base.0=C\:\\code\\miNote\\Notes-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
